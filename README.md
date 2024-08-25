@@ -1,10 +1,10 @@
-# vit-image-classification
-
 ---
-title: Vit Image Classifier
-emoji: 📊
-colorFrom: indigo
-colorTo: yellow
-sdk: docker
+title: Vit Image Classification
+emoji: 🏆
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: 4.42.0
+app_file: app.py
 pinned: false
 ---
